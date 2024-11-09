@@ -2,6 +2,7 @@
 Developed and deployed a bot in Automation Anywhere's Automation 360 platform to automate end-to-end invoice generation by extracting data from Excel sheets, significantly reducing manual data entry errors and processing time.
 
 What is Automation 360?
+
 Automation 360 is a cloud-native Robotic Process Automation (RPA) platform developed by Automation Anywhere. It allows organizations to automate repetitive, rule-based tasks across various applications and systems, enhancing productivity and reducing manual workloads.
 
 Engineered automated data scraping and processing workflows to ensure accurate collection of purchase details and generation of customer invoices, enhancing invoicing efficiency and accuracy.
